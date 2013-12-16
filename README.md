@@ -1,0 +1,4 @@
+usacoin
+=======
+
+altcoin
